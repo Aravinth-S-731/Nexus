@@ -40,7 +40,6 @@ function login() {
     alert(username.value+", You are now logged in.")
 }
 function signup() {
-    alert(validatePassword(newPassword));
     if (!validatePassword(newPassword)) {
         alert("Password must have at least 1 capital letter, minimum 8 characters, at least 1 symbol, and at least 1 number.");
     }
