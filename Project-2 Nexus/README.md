@@ -5,7 +5,7 @@ The "Software Website for Techy Software" is an intermediate-level web developme
 
 
 ## Quick Access Links
-### Hosted Page - 
+### Hosted Page - https://nexus-aravinth-s-731s-projects.vercel.app/
 ### GitHub - https://github.com/Aravinth-S-731/Nexus
 ### Mail ID - aravinths741@gmail.com
 
