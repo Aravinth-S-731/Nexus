@@ -71,7 +71,7 @@ Project-1 Nexus
      |--- software-company.jpeg
 ```
 ## Desktop Webpage
-![Desktop Webpage](/images/readme-images/desktop-design.png)
+![Desktop Webpage](images/readme-images/desktop-design.png)
 
 ---
 ---
