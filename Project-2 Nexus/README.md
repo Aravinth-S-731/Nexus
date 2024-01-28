@@ -78,11 +78,11 @@ Project-1 Nexus
 </br>
 
 ## Responsive Design
-![Responsive - 1](/images/readme-images/responsive-1.png)
-![Responsive - 1](/images/readme-images/responsive-2.png)
-![Responsive - 1](/images/readme-images/responsive-3.png)
-![Responsive - 1](/images/readme-images/responsive-4.png)
-![Responsive - 1](/images/readme-images/responsive-5.png)
+![Responsive - 1](images/readme-images/responsive-1.png)
+![Responsive - 1](images/readme-images/responsive-2.png)
+![Responsive - 1](images/readme-images/responsive-3.png)
+![Responsive - 1](images/readme-images/responsive-4.png)
+![Responsive - 1](images/readme-images/responsive-5.png)
 
 
 ---
